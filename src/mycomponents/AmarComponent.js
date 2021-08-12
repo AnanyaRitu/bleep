@@ -4,7 +4,7 @@ class AmarComponent extends Component {
     render() {
         return (
             <div>
-                <h1>Wheee!</h1>
+                <h1>Wheee!!!!! </h1>
             </div>
         );
     }

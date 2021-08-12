@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import AmarComponent from '../mycomponents/AmarComponent';
+import AmarComponent from './mycomponents/AmarComponent';
 
 function App() {
   return (
